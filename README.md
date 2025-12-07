@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadwali0/](https://github.com/muhammadwali0/)
 
-- 📝 I regularly write articles on [https://muhammadwaliraza.medium.com](https://muhammadwaliraza.medium.com)
-
 - 💬 Ask me about **C, Python and Bash**
 
 - 📫 How to reach me **muhammad.74752@iqra.edu.pk**
