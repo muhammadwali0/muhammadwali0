@@ -1,21 +1,168 @@
-# 💫 About Me:
-CS student obsessed with how software behaves at the metal.<br>I write close to the hardware. C, C++, Java, with forays into HDL and build on Linux as my primary environment.<br>My background spans systems security, embedded development, and applied mathematics, and I maintain a language lab repository as a structured, ongoing record of everything I learn and build.<br>Drawn to problems where performance is non-negotiable and inefficiency has a measurable cost.
+<div align="center">
 
+<!-- Matrix-style animated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=header&text=MUHAMMAD%20WALI%20RAZA&fontSize=32&fontColor=000000&fontAlignY=38&desc=Initializing%20identity%20kernel...&descAlignY=58&descSize=14&descColor=003300&animation=fadeIn&fontStyle=bold"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadwaliraza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wali.raza.pk@gmail.com) 
+<!-- Animated typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Low+Level+%2B+AI%2FML+%2B+Financial+Systems;Quantum+Computing+Explorer;Hackathon+Builder+%7C+Open+to+Collabs;Coffee-fueled+%E2%98%95+%7C+Building+in+Public;AI+Agent+Architect+%7C+Karachi%2C+PK" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=muhammadwali0&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=muhammadwali0&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadwali0&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<!-- Matrix-style sub-title -->
+```
+[ OK ] Loading neural stack............... DONE
+[ OK ] Mounting financial systems......... DONE  
+[ OK ] Compiling quantum modules.......... IN PROGRESS
+[ OK ] AI Agent runtime................... ONLINE ●
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammadwali0&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+
+## `$ cat whoami.conf`
+
+</div>
+
+```yaml
+name        : Muhammad Wali Raza
+handle      : @muhammadwali0
+role        : Engineer / Builder / Researcher
+stack       : Low Level + AI/ML + Financial Systems + Quantum
+location    : Karachi, Pakistan
+status      : Building AI Agents 🤖
+fuel        : Coffee.exe (always running) ☕
+collab      : Open — ping me anytime
+hackathons  : Active competitor
+```
+
+---
+
+<div align="center">
+
+## `$ ps aux | grep interests`
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/LOW_LEVEL-C%20%7C%20C%2B%2B%20%7C%20Rust-00ff41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=001a00)
+![](https://img.shields.io/badge/AI_%2F_ML-PyTorch%20%7C%20TensorFlow%20%7C%20Agents-00ff41?style=for-the-badge&logo=python&logoColor=black&labelColor=001a00)
+![](https://img.shields.io/badge/FINANCIAL-Quant%20Systems%20%7C%20PSX-00ff41?style=for-the-badge&logo=chartdotjs&logoColor=black&labelColor=001a00)
+![](https://img.shields.io/badge/QUANTUM-Computing%20%7C%20Research-00ff41?style=for-the-badge&logo=atom&logoColor=black&labelColor=001a00)
+![](https://img.shields.io/badge/CLOUD-GCP%20%7C%20AWS%20%7C%20K8s-00ff41?style=for-the-badge&logo=googlecloud&logoColor=black&labelColor=001a00)
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ cat current_processes.log`
+
+</div>
+
+<div align="center">
+
+| Process | Status | Priority |
+|---------|--------|----------|
+| 🤖 Building AI Agents | `● RUNNING` | `HIGH` |
+| ⚛️ Quantum Computing Research | `● ACTIVE` | `HIGH` |
+| 📈 Financial Systems (PSX) | `● ACTIVE` | `HIGH` |
+| 🏆 Hackathon Projects | `● RUNNING` | `HIGH` |
+| 🤝 Open Collaborations | `● LISTENING` | `MEDIUM` |
+| ☕ Coffee Consumption | `● CRITICAL` | `SYSTEM` |
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ ls -la arsenal/`
+
+</div>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,java,bash&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,linux,nginx&theme=dark" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,postgres,redis,sqlite&theme=dark" />
+
+**Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=git,grafana,elasticsearch,postman,firebase,selenium&theme=dark" />
+
+**Hardware / Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino,androidstudio&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ cat github_stats.out`
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadwali0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadwali0&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadwali0&theme=matrix&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=007700&stroke=001a00" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadwali0&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ ping social --all`
+
+<br/>
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40muhammadwa1i-00ff41?style=for-the-badge&logo=twitter&logoColor=black&labelColor=001a00)](https://twitter.com/MuhammadWa1i)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadwaliraza-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=001a00)](https://linkedin.com/in/muhammadwaliraza)
+[![Medium](https://img.shields.io/badge/Medium-@wali.raza.pk-00ff41?style=for-the-badge&logo=medium&logoColor=black&labelColor=001a00)](https://medium.com/@wali.raza.pk)
+[![YouTube](https://img.shields.io/badge/YouTube-muhammad--wali--raza-00ff41?style=for-the-badge&logo=youtube&logoColor=black&labelColor=001a00)](https://www.youtube.com/c/muhammad-wali-raza)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=000000&animation=fadeIn"/>
+
+---
+
+<div align="center">
+<sub><code>── EOF ── muhammadwali0 ──</code></sub>
+</div>
