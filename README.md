@@ -91,27 +91,35 @@ hackathons  : Active competitor
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,java,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,java,bash,lua,powershell,latex,regex&theme=dark" />
 
-**AI / ML**
+**AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&theme=dark" />
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,linux,nginx,vercel,prometheus,githubactions,gradle,maven,npm&theme=dark" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,postgres,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,postgres,redis,sqlite,cassandra,bootstrap&theme=dark" />
 
-**Tools & Infra**
+**Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=git,grafana,elasticsearch,postman,firebase,selenium&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,vim,eclipse,postman,grafana,elasticsearch,selenium,firebase&theme=dark" />
 
-**Hardware / Embedded**
+**OS & Platforms**
 
-<img src="https://skillicons.dev/icons?i=arduino,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,windows,androidstudio,arduino&theme=dark" />
+
+**Markup & Design**
+
+<img src="https://skillicons.dev/icons?i=md,svg,html&theme=dark" />
+
+**Social & Comms**
+
+<img src="https://skillicons.dev/icons?i=discord,gmail,twitter,linkedin&theme=dark" />
 
 </div>
 
@@ -151,6 +159,7 @@ hackathons  : Active competitor
 
 <br/>
 
+<!-- Snake animation - enable via GitHub Actions workflow below -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake.svg" />
@@ -159,6 +168,7 @@ hackathons  : Active competitor
 
 </div>
 
+<!-- Closing wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=000000&animation=fadeIn"/>
 
 ---
