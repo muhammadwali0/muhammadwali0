@@ -131,12 +131,12 @@ hackathons  : Active competitor
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadwali0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadwali0&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadwali0&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadwali0&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadwali0&theme=matrix&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=007700&stroke=001a00" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=muhammadwali0&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=007700&stroke=001a00" />
 
 <br/>
 
@@ -152,19 +152,17 @@ hackathons  : Active competitor
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40muhammadwa1i-00ff41?style=for-the-badge&logo=twitter&logoColor=black&labelColor=001a00)](https://twitter.com/MuhammadWa1i)
+[![X](https://img.shields.io/badge/X-%40MuhammadWa1i-00ff41?style=for-the-badge&logo=x&logoColor=black&labelColor=001a00)](https://x.com/MuhammadWa1i)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadwaliraza-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=001a00)](https://linkedin.com/in/muhammadwaliraza)
 [![Medium](https://img.shields.io/badge/Medium-@wali.raza.pk-00ff41?style=for-the-badge&logo=medium&logoColor=black&labelColor=001a00)](https://medium.com/@wali.raza.pk)
 [![YouTube](https://img.shields.io/badge/YouTube-muhammad--wali--raza-00ff41?style=for-the-badge&logo=youtube&logoColor=black&labelColor=001a00)](https://www.youtube.com/c/muhammad-wali-raza)
 
 <br/>
 
-<!-- Snake animation - enable via GitHub Actions workflow below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadwali0/muhammadwali0/output/github-snake-dark.svg" />
-</picture>
+<br/>
+
+<!-- Activity graph - works instantly, no workflow needed -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadwali0&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00cc33&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
